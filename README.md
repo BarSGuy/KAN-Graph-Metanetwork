@@ -20,3 +20,19 @@ We introduce a graph based meta network that represents a KAN model as a graph a
   year={2026}
 }
 ```
+
+
+# Table of Contents
+
+- [Installation](#installation)
+# [Sine Wave Experiment](#sine-wave-experiment)
+
+# Installation
+
+```bash
+conda env create -f env.yaml
+conda activate KAN-Graph-Metanetwork
+```
+
+# Sine Wave Experiment
+
